@@ -1,0 +1,33 @@
+Primary Analysis Page
+
+    Revenue: Overview of total revenue realized across all hotels.
+    Total Bookings: Counts of all bookings made in the reporting period.
+    Total Capacity: Snapshot of the total room capacity available in hotels.
+    Total Successful Bookings: Number of bookings that were successfully fulfilled.
+    Occupancy %: Percentage of rooms occupied relative to total capacity.
+    Average Rating: Average customer ratings for hotel stays.
+    Cancellation Metrics:
+        Total Cancelled Bookings: Total bookings that were cancelled.
+        Cancellation %: Proportion of bookings cancelled relative to total bookings.
+        No Show Rate %: Percentage of bookings where the guest did not show up and did not cancel.
+    Revenue Metrics:
+        ADR (Average Daily Rate): Average price paid per booked room.
+        Realisation %: Percentage of successful check-outs relative to total bookings.
+        RevPAR (Revenue Per Available Room): Revenue generated per available room, regardless of occupancy.
+
+Further Analysis Page
+
+    Booking Dynamics:
+        Booking % by Platform: Distribution of bookings across different booking platforms.
+        Booking % by Room Class: Proportion of bookings per room class (e.g., Standard, Elite).
+    Operational Room Metrics:
+        DBRN (Daily Booked Room Nights): Average number of rooms booked per day.
+        DSRN (Daily Sellable Room Nights): Average number of rooms ready to be sold each day.
+        DURN (Daily Utilized Room Nights): Average number of rooms actually utilized by guests.
+    Week Over Week Change Analysis:
+        Revenue WoW Change %: Week-over-week percentage change in revenue.
+        Occupancy WoW Change %: Changes in occupancy rates from one week to the next.
+        ADR WoW Change %: Fluctuation in the average daily rate week-over-week.
+        RevPAR WoW Change %: Comparative weekly changes in RevPAR.
+        Realisation WoW Change %: Shifts in successful check-out rates on a weekly basis.
+        DSRN WoW Change %: Variation in sellable room nights on a weekly basis.

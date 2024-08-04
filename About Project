@@ -7,11 +7,11 @@ Overview
 This PowerBI dashboard, developed as part of the Codebasics September Resume Challenge, leverages business and data intelligence to analyze the performance of Atliq Grands, a renowned chain of five-star hotels in India. The project addresses the challenge of declining market share and revenue faced by Atliq Grands due to competitive pressures and strategic decision-making gaps.
 Links
 
-    Challenge Details
-    Interactive Dashboard
-    Presentation Video
+    Challenge Details      -    https://codebasics.io/challenge/codebasics-resume-project-challenge
+    Interactive Dashboard  - (https://app.powerbi.com/view?r=eyJrIjoiODFjMWZiODgtYzgxNy00MzMxLTk0YmYtNDY5ZGRmMTE1MjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Problem Statement
+-----------------
 
 With a legacy spanning 20 years, Atliq Grands has experienced market share and revenue decline in the luxury/business hotels sector. To counter these challenges, the company sought insights from historical data via a third-party service provider, focusing on informed strategic adjustments.
 Tasks
@@ -43,57 +43,14 @@ Key Insights
     Analysis of cancellation impacts, highlighting substantial revenue losses.
 
 Dashboard Sections
-Primary Analysis Page
+==================
 
 
 Primary Analysis Page
+
 This section of the dashboard provides an overview of revenue, occupancy, and booking metrics, integrating filters for property-specific analysis.
-Further Analysis Page
+
 
 Further Analysis Page
 Detailed insights into revenue changes, occupancy details by room class, and booking trends over time are explored in this section.s and data intelligence to analyze the performance of Atliq Grands, a renowned chain of five-star hotels in India. The project addresses the challenge of declining market share and revenue faced by Atliq Grands due to competitive pressures and strategic decision-making gaps.
 Links
-
-    Challenge Details
-    Interactive Dashboard
-    Presentation Video
-
-Problem Statement
-
-With a legacy spanning 20 years, Atliq Grands has experienced market share and revenue decline in the luxury/business hotels sector. To counter these challenges, the company sought insights from historical data via a third-party service provider, focusing on informed strategic adjustments.
-Tasks
-
-The tasks I undertook include:
-
-    Creating and analyzing key metrics as specified in the provided metric list.
-    Designing a dashboard according to stakeholder-provided mock-ups.
-    Extracting and presenting new insights beyond the initial metric list and dashboard design.
-
-Resources Provided
-
-    Mock-up Dashboard: A guide for the dashboard design.
-    Data Model: The structure used for data analysis.
-    Overall Analysis View
-    Monthly Analysis View
-
-Learning Outcomes
-
-    Mastery in building matrix tables for diverse analytical applications.
-    Gained insights into various hotel cancellation policies and their financial impacts.
-    Enhanced skills in using PowerBI features like bookmarks and selections for dynamic presentations.
-    Identified discrepancies between projected and actual revenue figures.
-
-Key Insights
-
-    Delhi and Mumbai show contrasting trends in cancellation rates and revenue generation.
-    Notable performance distinctions across different Atliq properties, with insights into occupancy rates and average stay durations.
-    Analysis of cancellation impacts, highlighting substantial revenue losses.
-
-Dashboard Sections
-Primary Analysis Page
-
-This section of the dashboard provides an overview of revenue, occupancy, and booking metrics, integrating filters for property-specific analysis.
-Further Analysis Page
-
-Further Analysis Page
-Detailed insights into revenue changes, occupancy details by room class, and booking trends over time are explored in this section.

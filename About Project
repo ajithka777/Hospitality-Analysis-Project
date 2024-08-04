@@ -1,49 +1,99 @@
-AtliQ Hospitality Analysis - PowerBI
+AtliQ Hospitality Analysis - PowerBI Dashboard
+Overview
 
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+This PowerBI dashboard, developed as part of the Codebasics September Resume Challenge, leverages businesAtliQ Hospitality Analysis - PowerBI Dashboard
+Overview
 
-Link to the Challenge
+This PowerBI dashboard, developed as part of the Codebasics September Resume Challenge, leverages business and data intelligence to analyze the performance of Atliq Grands, a renowned chain of five-star hotels in India. The project addresses the challenge of declining market share and revenue faced by Atliq Grands due to competitive pressures and strategic decision-making gaps.
+Links
 
-Link to Interactive Dashboard
+    Challenge Details
+    Interactive Dashboard
+    Presentation Video
 
-Link to Presentation Video
-Problem statement
+Problem Statement
 
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+With a legacy spanning 20 years, Atliq Grands has experienced market share and revenue decline in the luxury/business hotels sector. To counter these challenges, the company sought insights from historical data via a third-party service provider, focusing on informed strategic adjustments.
+Tasks
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
-Task List
+The tasks I undertook include:
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+    Creating and analyzing key metrics as specified in the provided metric list.
+    Designing a dashboard according to stakeholder-provided mock-ups.
+    Extracting and presenting new insights beyond the initial metric list and dashboard design.
 
-    Create the metrics according to the metric list.
-    Create a dashboard according to the mock-up provided by stakeholders.
-    Create relevant insights that are not providerd in the metric list/mock-up dashboard.
+Resources Provided
 
-Provided Mock-up Dashboard
+    Mock-up Dashboard: A guide for the dashboard design.
+    Data Model: The structure used for data analysis.
+    Overall Analysis View
+    Monthly Analysis View
 
-Data Model
+Learning Outcomes
 
-Overall Analysis View
+    Mastery in building matrix tables for diverse analytical applications.
+    Gained insights into various hotel cancellation policies and their financial impacts.
+    Enhanced skills in using PowerBI features like bookmarks and selections for dynamic presentations.
+    Identified discrepancies between projected and actual revenue figures.
 
-Monthly Analysis View
+Key Insights
 
-Learnt things from this Project
+    Delhi and Mumbai show contrasting trends in cancellation rates and revenue generation.
+    Notable performance distinctions across different Atliq properties, with insights into occupancy rates and average stay durations.
+    Analysis of cancellation impacts, highlighting substantial revenue losses.
 
-    Learnt to build matrix table, which can be utilized for different purpose of analyze.
-    By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-    Learnt, how to use bookmarks and selection for different purposes.
-    There is a difference between in actual revenue realised with the revenue generated from bookings.
-    
+Dashboard Sections
+Primary Analysis Page
 
-Key Insights from the Dashboard
-    Delhi has the highest cancellation rates and Occupacny rates. Mumbai generates the highest revenue overall (669M).
-    In oveerall Atliq Blu has the highest ococupancy percent (62%) and highest overall rating (3.96) whereas AtliQ Palace in Delhi has top Occucapancy (66.4%) while AtliQ Bay Hyderabad ranks 1st
-    in individual performances.
-    Atliq Exotice generates Overall 320M which is the highest.
-    Week 23 & 26 were the least performing weeks of AtilQ Hotels
-    Atliq Bay, AtiQ Blu, and Atliq Grands has nearly 3 days of Average Stay.
-    AtliQ lost around 298 Million in cancellation.
-    Presidential rooms has the least cancellation rate while Elite rooms has most bookings annd cancellations.
-    
-    
+
+Primary Analysis Page
+This section of the dashboard provides an overview of revenue, occupancy, and booking metrics, integrating filters for property-specific analysis.
+Further Analysis Page
+
+Further Analysis Page
+Detailed insights into revenue changes, occupancy details by room class, and booking trends over time are explored in this section.s and data intelligence to analyze the performance of Atliq Grands, a renowned chain of five-star hotels in India. The project addresses the challenge of declining market share and revenue faced by Atliq Grands due to competitive pressures and strategic decision-making gaps.
+Links
+
+    Challenge Details
+    Interactive Dashboard
+    Presentation Video
+
+Problem Statement
+
+With a legacy spanning 20 years, Atliq Grands has experienced market share and revenue decline in the luxury/business hotels sector. To counter these challenges, the company sought insights from historical data via a third-party service provider, focusing on informed strategic adjustments.
+Tasks
+
+The tasks I undertook include:
+
+    Creating and analyzing key metrics as specified in the provided metric list.
+    Designing a dashboard according to stakeholder-provided mock-ups.
+    Extracting and presenting new insights beyond the initial metric list and dashboard design.
+
+Resources Provided
+
+    Mock-up Dashboard: A guide for the dashboard design.
+    Data Model: The structure used for data analysis.
+    Overall Analysis View
+    Monthly Analysis View
+
+Learning Outcomes
+
+    Mastery in building matrix tables for diverse analytical applications.
+    Gained insights into various hotel cancellation policies and their financial impacts.
+    Enhanced skills in using PowerBI features like bookmarks and selections for dynamic presentations.
+    Identified discrepancies between projected and actual revenue figures.
+
+Key Insights
+
+    Delhi and Mumbai show contrasting trends in cancellation rates and revenue generation.
+    Notable performance distinctions across different Atliq properties, with insights into occupancy rates and average stay durations.
+    Analysis of cancellation impacts, highlighting substantial revenue losses.
+
+Dashboard Sections
+Primary Analysis Page
+
+This section of the dashboard provides an overview of revenue, occupancy, and booking metrics, integrating filters for property-specific analysis.
+Further Analysis Page
+
+Further Analysis Page
+Detailed insights into revenue changes, occupancy details by room class, and booking trends over time are explored in this section.

@@ -1,16 +1,49 @@
-Project Outline  - This is project is a resume prokect challenge in Codebasics.io (https://codebasics.io/challenge/codebasics-resume-project-challenge)
-==================================================
-Domain:  Hospitality       Function: Revenue
+# AtliQ Grands Hospitality Revenue Analysis
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+## Project Overview
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
+This project is part of the [Codebasics.io Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge), focusing on the application of business and data intelligence in the hospitality industry to boost revenue and regain market share for AtliQ Grands, a chain of luxury hotels in India.
 
-Task:  
+### Domain
+**Hospitality**
 
-As a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. Download all relevant documents from the download section.
+### Function
+**Revenue Management**
 
-    Create the metrics according to the metric list.
-    Create a dashboard according to the mock-up provided by stakeholders.
-    Create relevant insights that are not provided in the metric list/mock-up dashboard.
+## Background
 
+AtliQ Grands has been a prominent player in the Indian hospitality sector for over two decades. Recently, due to competitive pressures and internal challenges in decision-making, the company has seen a downturn in its market presence and revenue generation. In response, the managing director has initiated a shift towards integrating more comprehensive data-driven strategies to regain the competitive edge.
+
+## Challenge
+
+Without an in-house data analytics team, AtliQ Grands has engaged a third-party service provider to mine valuable insights from their historical data. The insights are aimed at enhancing strategic decisions to improve overall revenue performance across their properties.
+
+## Tasks
+
+Participants in this challenge are expected to:
+
+1. **Metric Development**: Construct various metrics that align with the business objectives and are listed in the provided metric list.
+2. **Dashboard Creation**: Develop a dynamic dashboard based on a provided mock-up that visually represents the data and insights effectively.
+3. **Insight Generation**: Identify and articulate insights that extend beyond the provided metrics and mock-up, offering additional value and perspective to the management of AtliQ Grands.
+
+## Objective
+
+The primary goal of this project is to harness the power of data visualization and business intelligence to:
+- Analyze revenue trends and operational effectiveness.
+- Identify potential areas for revenue maximization.
+- Provide actionable insights that could lead to strategic improvements.
+
+## Contributions
+
+This project is open for contributions from individuals interested in data analysis, business intelligence, and hospitality management. Whether it's refining the dashboard, enhancing the metrics, or expanding the data analysis, your insights are welcome.
+
+### Getting Started
+
+To participate in this project:
+- Download the necessary data and documents from the [download section](https://codebasics.io/challenge/downloads).
+- Review the metric list and dashboard mock-up provided.
+- Use tools like PowerBI to create and visualize the data according to the project specifications.
+
+## Acknowledgments
+
+Thanks to Codebasics.io for hosting this challenge and providing an opportunity to apply data analytics skills in a real-world business scenario.
